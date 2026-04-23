@@ -6,4 +6,4 @@ for num in m:
     for x in n:
         if x==num:
             count+=1
-    print(count, end="")
+    print(count)
